@@ -12,6 +12,7 @@
 #   "ipykernel",  # Added ipykernel
 # ]
 # ///
+!pip install chardet
 import os
 import sys
 import pandas as pd
